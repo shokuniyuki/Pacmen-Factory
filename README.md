@@ -1,2 +1,2 @@
 # Pacmen-Factory
-Create pacmen with a button and then let them roam free, bouncing off walls
+This project creates PacMen that you are then able to let loose, bouncing off the walls with the 'Start Game' button.
